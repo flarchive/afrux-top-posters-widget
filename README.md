@@ -4,7 +4,16 @@ This repository is a permanent, read-only archive of released versions of `afrux
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-- Archived versions are stored as tags: `archive/vX.Y.Z`
+## Quick Download
+
+- **Latest Archived Version:** `v0.1.5`
+- **Flarum Compatibility:** `^1.2.0`
+- **Direct Download (.zip):** [Download v0.1.5 (.zip)](https://github.com/flarchive/afrux-top-posters-widget/archive/refs/tags/archive/v0.1.5.zip)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/afrux-top-posters-widget/tags)
+
+## Archive Catalog
+
+- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/afrux-top-posters-widget.json)
 - Upstream repository: https://github.com/afrux/top-posters-widget.git
 - Issues, pull requests, discussions, and wiki are disabled on this repository.
 
